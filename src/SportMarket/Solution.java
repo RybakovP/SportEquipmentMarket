@@ -49,6 +49,8 @@ public class Solution {
                             {
                             System.out.println(item.getCategory() + " " + item.Title() + " " + item.Price() + " " + sportmarket.getCurrentCountOfEcuipment(item));
                             }
+                        System.out.println("Sport equipment does't exist");
+
                     } else {
                         System.out.println("Title is empty");
                     }

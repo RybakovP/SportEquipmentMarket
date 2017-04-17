@@ -46,7 +46,6 @@ public class Shop
                 return item;
             }
         }
-        System.out.println("Sport equipment does't exist");
          return  null ;
     }
 
