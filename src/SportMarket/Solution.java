@@ -14,17 +14,7 @@ import java.util.List;
 public class Solution {
     public static void  main(String[] args) throws IOException {
 
-        // RentUnit инициализировать
-         // --- реализовать добавление елемнта в массив
-         // --- реалтзовать вывод всех елементов из массива
-
-        // инициализировать обьект Shop 2 мяча 1 скакалка 1 гантеля
-        //  ---реализовать поиск
-        //  ---реализовать добавление в мар елемнета
-        //  ---реализовать ументшение колеичества елементов
-
-
-         List<SportEquipment>  equipments = getEquipmentsFromFile();
+        List<SportEquipment>  equipments = getEquipmentsFromFile();
 
 
 
